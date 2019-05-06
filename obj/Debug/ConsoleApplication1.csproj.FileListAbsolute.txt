@@ -1,5 +1,4 @@
 C:\BRILLIST_WORKING\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\BRILLIST_WORKING\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\BRILLIST_WORKING\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\BRILLIST_WORKING\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\BRILLIST_WORKING\ConsoleApplication1\bin\Debug\Npgsql.dll
@@ -17,3 +16,6 @@ C:\BRILLIST_WORKING\ConsoleApplication1\bin\Debug\System.Threading.Tasks.Extensi
 C:\BRILLIST_WORKING\ConsoleApplication1\bin\Debug\System.ValueTuple.xml
 C:\BRILLIST_WORKING\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\BRILLIST_WORKING\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\BRILLIST_WORKING\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\BRILLIST_WORKING\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\BRILLIST_WORKING\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
